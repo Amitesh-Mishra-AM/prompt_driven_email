@@ -1,0 +1,5 @@
+{
+    "categorization_prompt": "Categorize the following email into one of these categories: Important, Newsletter, Spam, To-Do. To-Do emails must include a direct request requiring user action. Return only the category name.",
+    "action_extraction_prompt": "Analyze the email content. Extract any actionable tasks and their deadlines. Return the output strictly in JSON format: {\"task\": \"task description\", \"deadline\": \"date/time or None\"}. If there are no tasks, return {\"task\": null, \"deadline\": null}.",
+    "auto_reply_prompt": "You are a helpful email assistant. If the email is a meeting request, draft a polite reply asking for an agenda. If it is a task, confirm receipt. Keep the tone professional and concise."
+}

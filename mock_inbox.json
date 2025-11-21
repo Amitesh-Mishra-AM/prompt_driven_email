@@ -1,0 +1,122 @@
+[
+  {
+    "id": "001",
+    "sender": "alice.manager@company.com",
+    "subject": "Q3 Report Deadline - Urgent",
+    "timestamp": "2025-11-19T09:00:00",
+    "body": "Hi Team,\n\nI hope this message finds you well. I wanted to reach out regarding the Q3 financial report that we discussed in last week's meeting. As you know, the executive board has moved up their review session, which means we need to have all materials ready by end of day tomorrow.\n\nPlease ensure that all spreadsheet data is thoroughly updated, including the revenue projections, expense breakdowns, and the comparative analysis with Q2. Double-check all formulas and make sure the charts are reflecting the most current data. If you encounter any issues or need clarification on any of the requirements, please don't hesitate to reach out to me directly.\n\nThis is a high priority item, and I appreciate your cooperation in meeting this tight deadline. Thank you for your hard work and dedication.\n\nBest regards,\nAlice",
+    "read_status": false
+  },
+  {
+    "id": "002",
+    "sender": "newsletter@techweekly.com",
+    "subject": "TechWeekly: The Future of AI Agents",
+    "timestamp": "2025-11-19T08:30:00",
+    "body": "Welcome to this week's edition of TechWeekly!\n\nIn this issue, we explore how autonomous agents are reshaping productivity across industries. From customer service bots that can handle complex queries to AI assistants that manage entire project workflows, the landscape of work is changing rapidly.\n\nOur feature article examines three companies that have successfully implemented AI agent systems and seen productivity gains of up to 40%. We also include an exclusive interview with Dr. Sarah Chen, leading researcher in multi-agent systems, who shares her insights on where this technology is headed.\n\nAdditionally, we cover the latest developments in:\n- Large language model fine-tuning techniques\n- Privacy concerns in AI deployment\n- Open-source tools for building your own AI agents\n\nDon't miss our tutorial section where we walk you through creating a simple task automation agent in Python.\n\nHappy reading!\nThe TechWeekly Team",
+    "read_status": true
+  },
+  {
+    "id": "003",
+    "sender": "hr@company.com",
+    "subject": "Annual Leave Policy Update",
+    "timestamp": "2025-11-18T14:00:00",
+    "body": "Dear Employees,\n\nWe are writing to inform you of important changes to our annual leave carry-over policy that will take effect starting next month.\n\nAfter careful consideration and consultation with department heads, we have decided to increase the maximum number of leave days that can be carried over from one year to the next. Previously, employees could carry over a maximum of 5 days. Under the new policy, you will be able to carry over up to 10 days of unused annual leave.\n\nAdditionally, we are introducing a new use-it-or-lose-it deadline of March 31st for any carried-over days, giving you ample time to utilize your accrued leave in the new year.\n\nPlease review the attached document for complete details, including special provisions for employees on long-term projects and those returning from extended leave. If you have any questions or concerns about how these changes affect your particular situation, please contact the HR department.\n\nWe believe these changes will provide greater flexibility while still encouraging employees to take adequate time off for rest and rejuvenation.\n\nWarm regards,\nHuman Resources Department",
+    "read_status": false
+  },
+  {
+    "id": "004",
+    "sender": "bob.vendor@supplies.com",
+    "subject": "Re: Invoice #4022",
+    "timestamp": "2025-11-18T11:15:00",
+    "body": "Hi there,\n\nI hope you're doing well. I wanted to follow up on Invoice #4022 that I sent over last week on November 11th. The invoice was for the office supplies order that was delivered on November 8th, totaling $2,847.50.\n\nAccording to our records, the payment terms were Net 30, but I wanted to check in to make sure the invoice was received and is being processed. We've recently updated our accounting system and want to ensure nothing fell through the cracks during the transition.\n\nIf there are any issues with the invoice or if you need me to resend it or provide any additional documentation, please let me know. I'm happy to help resolve any concerns.\n\nLooking forward to your response.\n\nBest regards,\nBob Mitchell\nAccounts Receivable\nSupplies.com",
+    "read_status": true
+  },
+  {
+    "id": "005",
+    "sender": "promo@cheap-vacations.net",
+    "subject": "YOU WON A FREE CRUISE!!!",
+    "timestamp": "2025-11-18T03:00:00",
+    "body": "CONGRATULATIONS!!! You have been selected as one of our lucky winners!\n\nYou've won an ALL-EXPENSES-PAID 7-day Caribbean cruise for two! This is a $5,000 value absolutely FREE! Visit exotic ports including Jamaica, Grand Cayman, and Cozumel!\n\nBut wait, there's MORE! Book now and also receive:\n- $500 onboard credit\n- Free specialty dining\n- Complimentary spa treatment\n- Premium beverage package\n\nThis is a LIMITED TIME OFFER and spots are filling up fast! Click the link below to claim your prize NOW! You must respond within 24 hours or your prize will be forfeited to another winner!\n\n>>> CLAIM YOUR FREE CRUISE NOW <<<\n\nDon't miss out on the vacation of a lifetime! This offer is only available to select recipients!\n\n*Some restrictions may apply. Port fees and taxes not included. Must attend 90-minute resort presentation.",
+    "read_status": false
+  },
+  {
+    "id": "006",
+    "sender": "client.support@bigclient.com",
+    "subject": "Meeting Request: Project Kickoff",
+    "timestamp": "2025-11-17T16:45:00",
+    "body": "Hello,\n\nI hope this email finds you well. I'm reaching out to schedule our initial project kickoff meeting for the new customer portal redesign project that we discussed last month.\n\nWould you be available for a 30-minute call this Thursday, November 21st, at 2:00 PM EST? During this meeting, I'd like to go over the project scope in more detail, discuss our timeline expectations, and identify the key stakeholders who should be involved from both sides.\n\nI'll be bringing our technical lead and product manager to the call, and it would be great if you could have your development team lead join as well. We want to make sure everyone is aligned on the objectives and deliverables from the start.\n\nIf Thursday at 2 PM doesn't work for your schedule, I'm also available on Friday morning between 9 AM and 11 AM, or we could look at early next week. Please let me know what works best for you, and I'll send out a calendar invitation with a video conference link.\n\nLooking forward to working with you on this project!\n\nBest regards,\nJennifer Adams\nClient Success Manager\nBigClient Solutions",
+    "read_status": false
+  },
+  {
+    "id": "007",
+    "sender": "devops@company.com",
+    "subject": "Server Maintenance Notification",
+    "timestamp": "2025-11-17T09:00:00",
+    "body": "Dear Team,\n\nThis is a notification regarding scheduled maintenance on our primary production servers.\n\nMaintenance Window:\nDate: Saturday, November 23rd, 2025\nTime: 1:00 AM - 4:00 AM EST\nExpected Duration: 3 hours (may extend if complications arise)\n\nDuring this maintenance window, we will be performing critical updates including:\n- Security patches for the operating system\n- Database optimization and indexing\n- Load balancer configuration updates\n- SSL certificate renewals\n\nImpact:\n- All web services may experience intermittent availability\n- API endpoints may return timeout errors\n- Database queries may be slower than usual\n- Some background jobs will be paused\n\nWe have scheduled this maintenance during low-traffic hours to minimize disruption to our users. However, if you have any critical operations planned for this time window, please contact the DevOps team immediately so we can coordinate.\n\nA status page will be available at status.company.com where you can monitor the progress of the maintenance in real-time.\n\nIf you have any questions or concerns, please reach out to the DevOps team.\n\nThank you for your patience and understanding.\n\nDevOps Team",
+    "read_status": true
+  },
+  {
+    "id": "008",
+    "sender": "charlie.lead@company.com",
+    "subject": "Code Review Request",
+    "timestamp": "2025-11-16T15:30:00",
+    "body": "Hey team,\n\nI've just pushed my changes to the 'feature-login' branch and created a pull request for review. This PR includes the new OAuth integration we discussed in the sprint planning meeting, along with some refactoring of the authentication flow.\n\nHere's what's included in this PR:\n- Implementation of OAuth 2.0 authentication with Google and GitHub providers\n- Updated user session management\n- New middleware for token validation\n- Comprehensive unit tests (coverage increased to 87%)\n- Updated API documentation\n\nI've tested this locally and on the staging environment, and everything seems to be working smoothly. However, I'd really appreciate a thorough review, especially of the security aspects and the error handling logic.\n\nCould someone please review the PR by tomorrow morning? We need to merge this before the feature freeze on Wednesday if we want it included in the next release.\n\nThe PR is #247 in our repository. I've added inline comments on the sections that I think might need extra attention.\n\nThanks in advance for your time!\n\nCharlie",
+    "read_status": false
+  },
+  {
+    "id": "009",
+    "sender": "linkedin@notifications.com",
+    "subject": "You appeared in 5 searches this week",
+    "timestamp": "2025-11-16T10:00:00",
+    "body": "Hi there,\n\nYour LinkedIn profile has been getting attention! You appeared in 5 searches this week from recruiters and hiring managers looking for professionals with your skills and experience.\n\nPeople are finding you when they search for:\n- Software Engineers with Python experience\n- Full-stack developers in your area\n- Cloud architecture specialists\n\nThis is a great sign that your profile is visible to the right people! Want to see who's been viewing your profile and what companies they're from? Upgrade to LinkedIn Premium to unlock these insights and get access to:\n\n- Unlimited people browsing with full profile visibility\n- InMail credits to directly message recruiters\n- Salary insights for your role and location\n- Online video courses to enhance your skills\n\nYour profile is 85% complete. Add your recent certifications and projects to make it even more attractive to potential employers.\n\nKeep your profile updated and continue building your professional network!\n\nBest,\nThe LinkedIn Team",
+    "read_status": true
+  },
+  {
+    "id": "010",
+    "sender": "unknown@pharmacy-direct.com",
+    "subject": "Discounted Meds",
+    "timestamp": "2025-11-15T23:00:00",
+    "body": "SPECIAL OFFER - LIMITED TIME ONLY\n\nBuy generic supplements and medications at 50% off regular pharmacy prices! No prescription needed for many items!\n\nWe offer a wide range of products including:\n- Vitamins and dietary supplements\n- Pain relief medications\n- Allergy treatments\n- Sleep aids\n- And much more!\n\nAll products are sourced from international suppliers and shipped discreetly to your door. Orders typically arrive within 2-3 weeks.\n\nWhy pay more at your local pharmacy when you can get the same quality products for half the price? Our online ordering system is secure and confidential.\n\nUse promo code SAVE50 at checkout to receive your discount. This offer expires in 48 hours!\n\nVisit our website now to browse our full catalog and place your order today. Fast shipping available to most countries.\n\nClick here to start saving on your medications now!\n\n*Disclaimer: This email is sent to publicly available email addresses. If you wish to unsubscribe, click here.",
+    "read_status": false
+  },
+  {
+    "id": "011",
+    "sender": "sarah.planner@company.com",
+    "subject": "Team Lunch?",
+    "timestamp": "2025-11-15T11:00:00",
+    "body": "Hi everyone!\n\nI hope you're all having a great week! I was thinking it would be nice to organize a team lunch next Friday, November 29th, to celebrate the successful completion of our recent project and just take some time to relax and bond as a team outside of work mode.\n\nI'm planning to make a reservation at that new Italian restaurant downtown that everyone's been talking about - Giovanni's. They have a great lunch menu with lots of options, but I want to make sure I accommodate everyone's dietary needs.\n\nCould you please let me know if you have any dietary restrictions or preferences? For example:\n- Vegetarian or vegan\n- Gluten-free\n- Food allergies\n- Religious dietary requirements\n- Any foods you'd prefer to avoid\n\nAlso, please confirm if you'll be able to join us. The plan is to head out around 12:30 PM and we should be back by 2:00 PM.\n\nIf anyone has suggestions for alternative restaurants or different dates that might work better, I'm all ears! I want to make sure this works for everyone.\n\nLooking forward to hearing from you all!\n\nCheers,\nSarah",
+    "read_status": true
+  },
+  {
+    "id": "012",
+    "sender": "jira@company.com",
+    "subject": "[JIRA] Issue Created: BUG-102",
+    "timestamp": "2025-11-14T14:20:00",
+    "body": "A new issue has been created in your project.\n\nIssue: BUG-102\nPriority: High\nReporter: mike.tester@company.com\nAssignee: Unassigned\nComponent: Authentication\n\nSummary:\nLogin page crashes on Safari browser\n\nDescription:\nWhen attempting to log in using Safari browser (version 17.2) on macOS, the login page becomes unresponsive after entering credentials and clicking the \"Sign In\" button. The page appears to freeze, and no error message is displayed. The browser console shows a JavaScript error related to the authentication module.\n\nSteps to Reproduce:\n1. Open the application in Safari 17.2 on macOS\n2. Navigate to the login page\n3. Enter valid username and password\n4. Click the \"Sign In\" button\n5. Observe that the page becomes unresponsive\n\nExpected Result:\nUser should be successfully authenticated and redirected to the dashboard.\n\nActual Result:\nPage freezes and login cannot be completed.\n\nAdditional Notes:\n- Issue does not occur in Chrome or Firefox\n- Issue occurs consistently across multiple user accounts\n- Affects approximately 15% of our user base who use Safari\n\nAttachments:\n- Console error log\n- Screenshot of frozen page\n\nThis issue is blocking several users from accessing the application. Please investigate and assign to the appropriate developer.\n\nView issue: https://jira.company.com/browse/BUG-102",
+    "read_status": true
+  },
+  {
+    "id": "013",
+    "sender": "ceo@company.com",
+    "subject": "Town Hall Meeting",
+    "timestamp": "2025-11-14T09:00:00",
+    "body": "Dear Team,\n\nI hope this message finds you well and that you're all staying energized as we approach the end of the year.\n\nI'm writing to invite you to our quarterly Town Hall meeting, which will be held next Monday, November 25th, at 10:00 AM in the main auditorium. This is an important gathering where we'll review our progress over the past quarter, discuss our strategic direction for the upcoming year, and celebrate some significant wins.\n\nAgenda:\n- Q3 Financial Performance Review\n- New Product Launches and Roadmap\n- Team Recognition and Awards\n- 2026 Strategic Initiatives\n- Open Q&A Session\n\nWe'll also be announcing some exciting news about our expansion plans and introducing new leadership team members who have recently joined our organization.\n\nThis is a great opportunity for everyone to hear directly about where the company is headed and to ask questions about anything that's on your mind. We value your input and want to ensure everyone feels connected to our mission and goals.\n\nLight refreshments will be provided. For those working remotely, we'll have a live stream available via our internal communications platform. A recording will be shared afterward for anyone who cannot attend.\n\nPlease mark your calendars and plan to attend. Your participation and engagement are what make our company culture special.\n\nLooking forward to seeing you all there!\n\nBest regards,\nRobert Chen\nCEO",
+    "read_status": false
+  },
+  {
+    "id": "014",
+    "sender": "security@company.com",
+    "subject": "Action Required: Password Expiry",
+    "timestamp": "2025-11-13T08:00:00",
+    "body": "IMPORTANT SECURITY NOTICE\n\nDear User,\n\nThis is an automated notification to inform you that your company network password is scheduled to expire in 3 days on November 16th, 2025.\n\nTo maintain uninterrupted access to company systems and resources, you must update your password before the expiration date. After expiration, you will be unable to access:\n- Email\n- Internal applications\n- File shares\n- VPN\n- Video conferencing systems\n\nTo update your password:\n1. Visit the company portal at https://portal.company.com\n2. Log in with your current credentials\n3. Navigate to Account Settings > Security\n4. Click \"Change Password\"\n5. Follow the prompts to create a new password\n\nPassword Requirements:\n- Minimum 12 characters\n- At least one uppercase letter\n- At least one lowercase letter\n- At least one number\n- At least one special character (!@#$%^&*)\n- Cannot be any of your last 5 passwords\n- Cannot contain your username or common dictionary words\n\nIf you need assistance or have forgotten your current password, please contact the IT Help Desk at ext. 5555 or helpdesk@company.com.\n\nFor security reasons, please do not reply to this automated message.\n\nThank you for helping us maintain a secure work environment.\n\nInformation Security Team",
+    "read_status": false
+  },
+  {
+    "id": "015",
+    "sender": "no-reply@billing.com",
+    "subject": "Your subscription receipt",
+    "timestamp": "2025-11-12T12:00:00",
+    "body": "Thank you for your payment!\n\nThis email confirms that we have successfully processed your subscription payment.\n\nTransaction Details:\n- Transaction ID: TXN-2025-11-12-8847\n- Date: November 12, 2025\n- Amount: $19.99 USD\n- Payment Method: Visa ending in 4242\n- Subscription: Premium Monthly Plan\n\nYour subscription has been renewed and will remain active until December 12, 2025. You will continue to have access to all premium features including:\n- Unlimited storage\n- Priority customer support\n- Advanced analytics dashboard\n- Ad-free experience\n- Early access to new features\n\nYour next billing date is December 12, 2025, and the same payment method will be charged automatically unless you update your billing preferences.\n\nTo view your complete billing history, manage your subscription, or update your payment information, please log in to your account at www.billing.com/account.\n\nIf you have any questions about this charge or need assistance with your account, our customer support team is available 24/7 at support@billing.com or through the live chat feature in your account dashboard.\n\nThank you for being a valued customer!\n\nBest regards,\nThe Billing Team\n\nThis is an automated email. Please do not reply to this message.",
+    "read_status": true
+  }
+]
