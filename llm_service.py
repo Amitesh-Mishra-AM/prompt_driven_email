@@ -1,16 +1,19 @@
 import os
 import google.generativeai as genai
 import json
+import streamlit as st
 from dotenv import load_dotenv
 load_dotenv()
 
-# Global cache so we don't re-scan every time
 CACHED_MODEL_NAME = None
 
 def configure_llm():
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise ValueError("GEMINI_API_KEY not found in .env file")
+        try:
+            api_key = st.secrets["GEMINI_API_KEY"]
+        except:
+            raise ValueError("GEMINI_API_KEY not found in .env or Streamlit Secrets")
     genai.configure(api_key=api_key)
 
 def get_active_model_name():
