@@ -1,12 +1,11 @@
 import streamlit as st
 import json
 import os
-import time  # Import time to control speed
+import time 
 from prompt_manager import PromptManager
 from llm_service import process_email_with_llm, parse_json_output
-# Page Config
 st.set_page_config(page_title="Email Productivity Agent", layout="wide")
-# --- Session State Initialization ---
+
 if "emails" not in st.session_state:
     try:
         with open("mock_inbox.json", "r") as f:
